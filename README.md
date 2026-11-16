@@ -59,7 +59,7 @@ O POST também exige o cabeçalho `Idempotency-Key`.
 Clone o repositório e acesse sua pasta:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/marina-2907/Ventrya-DotNet.git
 cd Ventrya-DotNet
 ```
 
