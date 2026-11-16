@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Ventrya.Api/Ventrya.Api.csproj" />
+  <Project Path="Ventrya.Tests/Ventrya.Tests.csproj" />
+</Solution>

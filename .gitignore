@@ -1,0 +1,24 @@
+
+# Arquivos gerados pelo .NET
+**/bin/
+**/obj/
+.vs/
+.vscode/
+
+# Banco de dados local
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
+# Configurações locais e segredos
+.env
+.env.*
+**/appsettings.Local.json
+**/appsettings.Development.local.json
+
+# Arquivos temporários
+*.log
+TestResults/
+*.user
+*.suo
