@@ -121,7 +121,7 @@ Execute:
 dotnet test Ventrya.slnx
 ```
 
-Na última execução validada, foram registrados **10 testes aprovados e nenhuma falha**.
+Na última execução validada, foram registrados **13 testes aprovados e nenhuma falha**.
 
 Os testes contemplam validações de dados, autenticação, autorização e idempotência, incluindo testes de integração com SQLite em memória.
 
